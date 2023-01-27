@@ -24,10 +24,15 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></p>
 
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edukaki&show_icons=true&locale=en" alt="edukaki" /></p>
+<div style='display: flex'>
+  
+<img width='49%' height="300px" src="https://github-readme-stats.vercel.app/api?username=edukaki&show_icons=true&locale=en" alt="edukaki" />
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edukaki&show_icons=true&locale=en&layout=compact" alt="edukaki" /></p>
+<img align='right' width='49%' height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=edukaki&show_icons=true&locale=en&layout=compact" alt="edukaki" />
+  </div>
+
+<div align="center">&nbsp;<img align="center" height="250px" src="https://streak-stats.demolab.com/?user=edukaki" alt="Arakaki Eduardo" /></div>
 
 <br/>
 <br/>
