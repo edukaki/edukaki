@@ -26,11 +26,11 @@
 <br/>
 <div style='display: flex'>
   
-<img width='49%' height="300px" src="https://github-readme-stats.vercel.app/api?username=edukaki&show_icons=true&locale=en" alt="edukaki" />
+  <img width='49%' height="300px" src="https://github-readme-stats.vercel.app/api?username=edukaki&show_icons=true&locale=en" alt="edukaki" />
 
 
-<img align='right' width='49%' height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=edukaki&show_icons=true&locale=en&layout=compact" alt="edukaki" />
-  </div>
+  <img align='right' width='49%' height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=edukaki&show_icons=true&locale=en&layout=compact" alt="edukaki" />
+</div>
 
 <div align="center">&nbsp;<img align="center" height="250px" src="https://streak-stats.demolab.com/?user=edukaki" alt="Arakaki Eduardo" /></div>
 
