@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Arakaki Eduardo</h1>
+<h1 align="left">Hi, I'm Eduardo</h1>
 
 
 <h3 align="left">I am from Rio de Janeiro, Brazil, and currently live in Shiga-ken, Japan.</h3>
